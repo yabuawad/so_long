@@ -1,5 +1,5 @@
 ## SO_LONG (=^･ω･^=)
-this is a 2d game i made using only C with a help of a custom library called MLX. I used my previous project get_next_line (that basically reads from a text file into a buffer) to read any map for the game from the file and turn it into movable pixled images.  
+this is a 2d game i made using only C with a help of a custom library called MLX. I used my previous project [get_next_line](https://github.com/yabuawad/get_next_line) (that basically reads from a text file into a buffer) to read any map for the game from the file and turn it into movable pixled images.  
 the game basically has a single player with some collectables and an exit door to end the game!  
 ## some game rules handled in code:
 ~the game is playable using WASD keys  
